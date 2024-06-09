@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+}
+
+.home {
+    display: flex;
+    color: red;
+
+    >a {
+        color: 0;
+        background-color: purple;
+    }
+}
+
+img {
+    border-radius: 50;
+}
+
+div.header {
+    font-size: 1rem;
+}
